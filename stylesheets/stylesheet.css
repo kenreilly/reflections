@@ -50,8 +50,8 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
-  background: #212121;
+  background:#373737;
+  color: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -61,7 +61,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+ 
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -159,8 +159,8 @@ p img {
 
 pre, code {
   width: 100%;
-  color: #222;
-  background-color: #fff;
+  background-color: #222;
+  color: #fff;
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
@@ -355,7 +355,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
+  color: #f2f2f2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
@@ -371,6 +371,20 @@ Full-Width Styles
 
 
 
+h1 a {
+    text-decoration: none;
+    color: #fff;
+
+}
+
+h1 a:hover {
+    text-decoration: none;
+}
+
+i {
+    font-style: italic;
+    color: #c5e6ff;
+}
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
