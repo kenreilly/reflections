@@ -27,6 +27,8 @@
     <Content Include="images\icon_download.png" />
     <Content Include="images\sprite_download.png" />
     <Content Include="index.html" />
+    <Content Include="posts\05112016.html" />
+    <Content Include="posts\template.html" />
     <Content Include="stylesheets\github-light.css" />
     <Content Include="stylesheets\stylesheet.css" />
   </ItemGroup>
